@@ -3,6 +3,7 @@
 # HTML WEB DEVELOPER FINAL
 
 Desafio 1 | [Quantidades de números positivos]()
+----------|------------------------------------
 Desafio 2 | [Exibindo números pares]()
 Desafio 3 | [Análise de números]()
 Desafio 4 | [Contagem de cédulas]()
