@@ -1,8 +1,5 @@
 Exibindo números pares
 
-let num = parseInt(gets());
-for (cont = 1; cont <= num; cont++) {
-    if (cont % 2 == 0) {
-        console.log(cont);
-    }
-}
+let num = + gets();
+for(cont = 2; cont <= num ; cont += 2) 
+console.log(`${cont}`);
