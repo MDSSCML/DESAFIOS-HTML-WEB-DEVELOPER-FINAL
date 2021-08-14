@@ -1,5 +1,5 @@
 Exibindo números pares
 
-let num = + gets();
-for(cont = 2; cont <= num ; cont += 2) 
-console.log(`${cont}`);
+for(cont = 2,  num = +gets(); cont <= num; cont += 2){
+  console.log(`${cont}`);
+}
