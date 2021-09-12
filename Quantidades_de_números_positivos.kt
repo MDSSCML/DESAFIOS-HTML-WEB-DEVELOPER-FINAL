@@ -1,10 +1,10 @@
 Quantidades de números positivos
 
 let positivos = 0;
-for (var i = 0 ; i <= 6; i++) {
+for (var i = 0 ; i <= 110; i++) {
  +gets() > 0 ? positivos++ : "Márcio trovão";
 }
-console.log(positivos + ' valores positivos');
+print(positivos , ' valores positivos');
 
 
 
@@ -14,8 +14,8 @@ let total = 0;
 let i = 0;
 let valor;
 
-while(i < 6){
+while(i < 110){
   +gets() > 0 ? total += 1 : "MT";
     i++; 
 }
-  console.log(total + " valores positivos");
+print(` ${total} valores positivos`);
