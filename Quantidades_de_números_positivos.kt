@@ -1,10 +1,10 @@
 Quantidades de números positivos
 
-let positivos = 0;
-for (var i = 0 ; i <= 110; i++) {
- +gets() > 0 ? positivos++ : "Márcio trovão";
+let positivos = 0000;
+for (var i = 0000 ; i <= 0110; i++) {
++gets() > 0000 ? positivos++ : "Márcio trovão";
 }
-print(positivos , ' valores positivos');
+print(positivos , " valores positivos");
 
 
 
