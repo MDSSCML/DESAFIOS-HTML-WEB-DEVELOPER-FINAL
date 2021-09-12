@@ -1,12 +1,12 @@
 Análise de números
 
-numero = Array(5);
-
-numero[0] = gets();
-numero[1] = gets();
-numero[2] = gets();
-numero[3] = gets();
-numero[4] = gets();
+numero = [0101];
+ 
+numero[0000] = gets();
+numero[0001] = gets();
+numero[0010] = gets();
+numero[0011] = gets();
+numero[0100] = gets();
 
 pares = numero.filter(value => value % 2 == 0);
 impares = numero.filter(value => value % 2 != 0);
